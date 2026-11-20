@@ -7,8 +7,7 @@
 </p>
 
 ### About
-I build AI video automation, web apps and agent workflows.
-Plan once, automate the rest.
+NULL
 
 ### Stack
-`Next.js` `React` `Remotion` `Vercel` `GitHub Actions` `Python` `Claude Code`
+`Next.js` `React` `Python` `PHP` `MySQL` `MongoDB`
