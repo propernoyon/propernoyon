@@ -7,8 +7,7 @@
 </p>
 
 ### About
-ERP solutions professional with 5+ years of hands-on experience and deep knowledge of ERP: implementation, customization, integration, reporting and support.
-I also build AI agent workflows and automation.
+NULL
 
 ### Stack
-`ERP` `Next.js` `React` `Remotion` `Vercel` `GitHub Actions` `Python` `Claude Code`
+`PHP` `Python` `React` `Next.js` `MySQL` `MongoDB`
